@@ -1,0 +1,210 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black;
+}
+
+.navbar-brand {
+  font-family: "Poppins", sans-serif;
+}
+
+.nav-link {
+  font-family: "Source Code Pro", monospace;
+}
+
+h3 {
+  background-color: black;
+  color: #fefefe;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 2.5rem;
+  padding: 1.5rem;
+}
+
+.ptxt {
+  color: #fefefe;
+  font-family: "Poppins";
+}
+
+.color {
+  padding: 6rem 2rem;
+  border: 2px solid black;
+  border-radius: 15px;
+}
+
+.color:hover {
+  border: 2px solid snow;
+  cursor: pointer;
+}
+
+.first {
+  background-color: #e21717;
+}
+
+.second {
+  background-color: #1faa59;
+}
+
+.third {
+  background-color: #1b98f5;
+}
+
+.fourth {
+  background-color: #fefefe;
+}
+
+.fifth {
+  background-color: #0d0d0d;
+}
+
+.sixth {
+  background-color: #8d3daf;
+}
+
+.ifirst {
+  background-color: #264653;
+}
+
+.isecond {
+  background-color: #2a9d8f;
+}
+
+.ithird {
+  background-color: #e9c46a;
+}
+
+.ifourth {
+  background-color: #f4a261;
+}
+
+.ififth {
+  background-color: #52b788;
+}
+
+.isixth {
+  background-color: #e76f51;
+}
+
+.rfirst {
+  background-color: #ff6263;
+}
+
+.rsecond {
+  background-color: #de4839;
+}
+
+.rthird {
+  background-color: #bf3325;
+}
+
+.rfourth {
+  background-color: #e21717;
+}
+
+.rfifth {
+  background-color: #bf3312;
+}
+
+.rsixth {
+  background-color: #d82e2f;
+}
+
+.gfirst {
+  background-color: #50dbb4;
+}
+
+.gsecond {
+  background-color: #1c8d73;
+}
+
+.gthird {
+  background-color: #02b290;
+}
+
+.gfourth {
+  background-color: #38cc77;
+}
+
+.gfifth {
+  background-color: #1faa59;
+}
+
+.gsixth {
+  background-color: #1b4332;
+}
+
+.bfirst {
+  background-color: #1b98f5;
+}
+
+.bsecond {
+  background-color: #23c4ed;
+}
+
+.bthird {
+  background-color: #12b0e8;
+}
+
+.bfourth {
+  background-color: #5da3fa;
+}
+
+.bfifth {
+  background-color: #383cc1;
+}
+
+.bsixth {
+  background-color: #03203c;
+}
+
+.yfirst {
+  background-color: #e5d68a;
+}
+
+.ysecond {
+  background-color: #edbf69;
+}
+
+.ythird {
+  background-color: #e09f3e;
+}
+
+.yfourth {
+  background-color: #f4be2c;
+}
+
+.yfifth {
+  background-color: #ddd101;
+}
+
+.ysixth {
+  background-color: #a77b06;
+}
+
+.leadtxt {
+  color: #fefefe;
+  font-family: "Poppins", sans-serif;
+}
+
+.mybtn {
+  color: #fefefe;
+  background-color: purple;
+  border: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
+
+.mybtn:hover {
+  background-color: green;
+}
+
+.commontxt {
+  color: #fefefe;
+  text-align: left;
+  margin: 2rem 0;
+}
